@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test_library.iml" filepath="$PROJECT_DIR$/.idea/modules/Test_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Toast/Test_library.Toast.iml" filepath="$PROJECT_DIR$/.idea/modules/Toast/Test_library.Toast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Test_library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Test_library.app.iml" />
+    </modules>
+  </component>
+</project>
